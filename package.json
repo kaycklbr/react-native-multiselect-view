@@ -1,0 +1,34 @@
+{
+  "name": "react-native-multiselect-view",
+  "version": "1.0.8",
+  "description": "Custom multi list component for react native, it works on iOS and Android like a charm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fukhaos/react-native-multiselect-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-multiselect-view",
+    "react-native-component",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "author": "Bhavesh Goyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fukhaos/react-native-multiselect-view/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.7",
+    "react-native-vector-icons": "^4.6.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.55.1"
+  },
+  "homepage": "https://github.com/fukhaos/react-native-multiselect-view"
+}
